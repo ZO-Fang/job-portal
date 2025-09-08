@@ -1,4 +1,4 @@
-# Art Industry Job Portal
+# ArtistHire Web App
 
 This project is a recruitment web application tailored for professionals in the art industry.  
 It is designed for illustrators, animators, 3D modelers, traditional painters, and similar creative roles, as well as employers in the gaming, film, and animation industries.
