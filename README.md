@@ -36,3 +36,31 @@ The application is deployed on AWS Elastic Beanstalk:
 ---
 
 This project demonstrates the integration of a full-stack Spring Boot application with secure authentication, relational database management, cloud deployment, and scalable file storage.
+
+
+## screenshots
+dashboard and filter search: 
+![alt text](https://github.com/ZO-Fang/job-portal/blob/master/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-09-05%20215619.png?raw=true)
+
+saved job list:
+![alt text](https://github.com/ZO-Fang/job-portal/blob/master/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-09-05%20215630.png?raw=true)
+
+creates job post: 
+![alt text](https://github.com/ZO-Fang/job-portal/blob/master/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-09-08%20150646.png?raw=true)
+
+create job seeker profile:
+![alt text](https://github.com/ZO-Fang/job-portal/blob/master/images/jobseekerprofile-2.png?raw=true)
+
+job details, and candidate who have applied for this job:
+![alt text](https://github.com/ZO-Fang/job-portal/blob/master/images/jobdetails.png?raw=true)
+
+recruiter can read and download candidate's resume and portfolio:
+![alt text](https://github.com/ZO-Fang/job-portal/blob/master/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-09-08%20150601.png?raw=true)
+
+
+
+
+
+
+
+
